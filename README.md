@@ -1,2 +1,3 @@
-# AI-Assistants
-Supporting documentation, prompts, and practical guidance for AI assistants showcased in the AI SDLC Contribution catalogue.
+# AI Assistants Knowledge Base
+
+This repository complements the AI SDLC Contribution portal by providing detailed use cases, prompts, instructions, examples, and best practices for AI assistants across the Software Development Lifecycle (SDLC).
